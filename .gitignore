@@ -170,3 +170,12 @@ poetry.lock
 
 # Pre-commit hook cache
 .pre-commit-config.yaml
+
+#data folder
+data/
+
+#wandb folder
+wandb/
+
+#temp file
+temp.py
